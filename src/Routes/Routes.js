@@ -9,7 +9,7 @@ import PageNotFound from "../components/Pages/PageNotFound";
 export default function Routes() {
     return (
         <Switch>
-            <Route path="/" exact component={Home} />
+            <Route path="/dblol" exact component={Home} />
             {menu.map((item) => (
                 <Route path={item.route} exact component={item.component} />         
             ))}

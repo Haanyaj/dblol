@@ -1,8 +1,8 @@
 {
-  "name": "lolrush",
+  "name": "dblol",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://haanyaj.github.io/lolrush",
+  "homepage": "http://haanyaj.github.io/dblol",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",

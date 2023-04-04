@@ -167,14 +167,10 @@ function BaseNavBar(props) {
         <ToggleMenu side='left' menu={menu} auth={auth} />
       </div>
       <Typography className={classes.title} variant="h6" noWrap>
-        LoL Ranking
+        LOL Rush SOLO Q
     </Typography>
       <div className={classes.sectionDesktop}>
-        <div className={classes.menuBar}>
-          {menu.map((item) => (
-            ((auth && !item.public) || item.public) && <Button color="inherit" component={Link} to={item.route}>{item.title}</Button>
-          ))}
-        </div>
+      
       </div>
       {props.search && <div className={classes.sectionDesktop}>
         <SearchField />
