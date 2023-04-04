@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dblol/static/css/main.0f077273.chunk.css",
-    "main.js": "/dblol/static/js/main.5f02acb6.chunk.js",
-    "main.js.map": "/dblol/static/js/main.5f02acb6.chunk.js.map",
+    "main.js": "/dblol/static/js/main.75a63efd.chunk.js",
+    "main.js.map": "/dblol/static/js/main.75a63efd.chunk.js.map",
     "runtime-main.js": "/dblol/static/js/runtime-main.cb0e37e1.js",
     "runtime-main.js.map": "/dblol/static/js/runtime-main.cb0e37e1.js.map",
-    "static/js/2.2e72084f.chunk.js": "/dblol/static/js/2.2e72084f.chunk.js",
-    "static/js/2.2e72084f.chunk.js.map": "/dblol/static/js/2.2e72084f.chunk.js.map",
+    "static/js/2.fd8e0e09.chunk.js": "/dblol/static/js/2.fd8e0e09.chunk.js",
+    "static/js/2.fd8e0e09.chunk.js.map": "/dblol/static/js/2.fd8e0e09.chunk.js.map",
     "index.html": "/dblol/index.html",
-    "precache-manifest.6963130c3ed609fe6fbf5a59d0c0f082.js": "/dblol/precache-manifest.6963130c3ed609fe6fbf5a59d0c0f082.js",
+    "precache-manifest.16ab1165b32c38915ede1b606f23e687.js": "/dblol/precache-manifest.16ab1165b32c38915ede1b606f23e687.js",
     "service-worker.js": "/dblol/service-worker.js",
     "static/css/main.0f077273.chunk.css.map": "/dblol/static/css/main.0f077273.chunk.css.map",
-    "static/js/2.2e72084f.chunk.js.LICENSE": "/dblol/static/js/2.2e72084f.chunk.js.LICENSE",
+    "static/js/2.fd8e0e09.chunk.js.LICENSE": "/dblol/static/js/2.fd8e0e09.chunk.js.LICENSE",
     "static/media/landscape.png": "/dblol/static/media/landscape.a1471115.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb0e37e1.js",
-    "static/js/2.2e72084f.chunk.js",
+    "static/js/2.fd8e0e09.chunk.js",
     "static/css/main.0f077273.chunk.css",
-    "static/js/main.5f02acb6.chunk.js"
+    "static/js/main.75a63efd.chunk.js"
   ]
 }
