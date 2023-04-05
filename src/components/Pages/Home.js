@@ -60,8 +60,18 @@ const Home = () => {
     { joueur: "Alvyn", name: "IvanJBCK", region: "euw1" },
     { joueur: "Victor", name: "Treqz", region: "na1"  },
     { joueur: "Sesses", name: "SessesYT" , region: "euw1" },
-    { joueur: "Betrouni", name: "Betrouni" , region: "euw1" },
+    { joueur: "Adil", name: "If it rains" , region: "euw1" },
+    { joueur: "Remi", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Khaled", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Matt", name: "IvanJBCK" , region: "euw1" },
     { joueur: "Kylian", name: "Wheyn" , region: "euw1" },
+    { joueur: "Toji", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Akoura", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Joker", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Aizenflop", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Serkan", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Fatih", name: "IvanJBCK" , region: "euw1" },
+    { joueur: "Berka", name: "IvanJBCK" , region: "euw1" },
   ];
   
 
