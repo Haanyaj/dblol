@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57a20c91e20b3e57d836eaa28ddc399c",
+    "revision": "8483b38bd91ebd218e39369e48876e31",
     "url": "/dblol/index.html"
   },
   {
-    "revision": "382a4d071aeab65cfb7b",
+    "revision": "72afee4a5c73d1611ad9",
     "url": "/dblol/static/css/main.0f077273.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dblol/static/js/2.1510053f.chunk.js.LICENSE"
   },
   {
-    "revision": "382a4d071aeab65cfb7b",
-    "url": "/dblol/static/js/main.34a855d7.chunk.js"
+    "revision": "72afee4a5c73d1611ad9",
+    "url": "/dblol/static/js/main.a0b0f3ac.chunk.js"
   },
   {
     "revision": "8cb2acede3f2ce1a0fe9",
