@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dblol/static/css/main.0f077273.chunk.css",
-    "main.js": "/dblol/static/js/main.a0b0f3ac.chunk.js",
-    "main.js.map": "/dblol/static/js/main.a0b0f3ac.chunk.js.map",
+    "main.js": "/dblol/static/js/main.d1717597.chunk.js",
+    "main.js.map": "/dblol/static/js/main.d1717597.chunk.js.map",
     "runtime-main.js": "/dblol/static/js/runtime-main.cb0e37e1.js",
     "runtime-main.js.map": "/dblol/static/js/runtime-main.cb0e37e1.js.map",
     "static/js/2.1510053f.chunk.js": "/dblol/static/js/2.1510053f.chunk.js",
     "static/js/2.1510053f.chunk.js.map": "/dblol/static/js/2.1510053f.chunk.js.map",
     "index.html": "/dblol/index.html",
-    "precache-manifest.138c947a74b30bd563da019d055c7fe2.js": "/dblol/precache-manifest.138c947a74b30bd563da019d055c7fe2.js",
+    "precache-manifest.2ef546b959c1884974b527328a80650d.js": "/dblol/precache-manifest.2ef546b959c1884974b527328a80650d.js",
     "service-worker.js": "/dblol/service-worker.js",
     "static/css/main.0f077273.chunk.css.map": "/dblol/static/css/main.0f077273.chunk.css.map",
     "static/js/2.1510053f.chunk.js.LICENSE": "/dblol/static/js/2.1510053f.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cb0e37e1.js",
     "static/js/2.1510053f.chunk.js",
     "static/css/main.0f077273.chunk.css",
-    "static/js/main.a0b0f3ac.chunk.js"
+    "static/js/main.d1717597.chunk.js"
   ]
 }
