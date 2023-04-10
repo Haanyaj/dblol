@@ -56,28 +56,28 @@ const SummonerRow = ({joueur, name, region }) => {
 };
 
 const Home = () => {
-  const players = [
-    { joueur: "Alvyn", name: "IvanJBCK", region: "euw1" },
-    { joueur: "Victor", name: "MrLEV12", region: "na1"  },
-    { joueur: "Sesses", name: "SessesYT" , region: "euw1" },
-    { joueur: "Adil", name: "If it rains" , region: "euw1" },
-    { joueur: "Remi", name: "qkbin" , region: "euw1" },
-    { joueur: "Betrouni", name: "Teshiier" , region: "euw1" },
-    { joueur: "Khaled", name: "MOONLIGHT AD" , region: "euw1" },
-    { joueur: "Matt", name: "PauIeta" , region: "euw1" },
-    { joueur: "Kylian", name: "THAT GOAT ORNN" , region: "euw1" },
-    { joueur: "Toji", name: "Eadgetota" , region: "euw1" },
-    { joueur: "Akoura", name: "Shoeii Baro" , region: "euw1" },
-    { joueur: "Joker", name: "Kayn Hate Acc" , region: "euw1" },
-    { joueur: "Aizenflop", name: "PAR PITIÉ ARRËTE" , region: "euw1" },
-    { joueur: "Serkan", name: "Hneelana" , region: "euw1" },
-    { joueur: "Fatih", name: "me and fiora" , region: "euw1" },
-    { joueur: "Seny", name: "Smurf Nykel" , region: "euw1" },
-    { joueur: "Yass", name: "Fleau Désastre" , region: "euw1" },
-    { joueur: "Sahid", name: "sosahid1" , region: "euw1" },
-    { joueur: "Joderrrrrrr", name: "Aurelion 9 11" , region: "euw1" },
-    { joueur: "Bakel", name: "Kaine Duwap" , region: "euw1" },
-  ];
+    const players = [
+      { joueur: "Alvyn", name: "IvanJBCK", region: "euw1" },
+      { joueur: "Victor", name: "MrLEV12", region: "na1"  },
+      { joueur: "Sesses", name: "SessesYT" , region: "euw1" },
+      { joueur: "Adil", name: "If it rains" , region: "euw1" },
+      { joueur: "Remi", name: "qkbin" , region: "euw1" },
+      { joueur: "Betrouni", name: "Teshiier" , region: "euw1" },
+      { joueur: "Khaled", name: "MOONLIGHT AD" , region: "euw1" },
+      { joueur: "Matt", name: "PauIeta" , region: "euw1" },
+      { joueur: "Kylian", name: "THAT GOAT ORNN" , region: "euw1" },
+      { joueur: "Toji", name: "Eadgetota" , region: "euw1" },
+      { joueur: "Akoura", name: "Shoeii Baro" , region: "euw1" },
+      { joueur: "Joker", name: "Kayn Hate Acc" , region: "euw1" },
+      { joueur: "Aizenflop", name: "PAR PITIÉ ARRËTE" , region: "euw1" },
+      { joueur: "Serkan", name: "Hneelana" , region: "euw1" },
+      { joueur: "Fatih", name: "me and fiora" , region: "euw1" },
+      { joueur: "Seny", name: "Smurf Nykel" , region: "euw1" },
+      { joueur: "Yass", name: "Fleau Désastre" , region: "euw1" },
+      { joueur: "Sahid", name: "sosahid1" , region: "euw1" },
+      { joueur: "Joderrrrrrr", name: "Aurelion 9 11" , region: "euw1" },
+      { joueur: "Bakel", name: "Kaine Duwap" , region: "euw1" },
+    ];
 
   return (
     <Page title="DB Ranking">
